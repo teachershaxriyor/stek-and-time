@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content{
+    width: 1200px;
+    height: auto;
+}
+.grid{
+    width: 1200px;
+    height: auto;
+}
+
+article{
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid silver;
+    overflow: hidden;
+}
+article img {
+    width: 100%;
+}
+.content{
+    padding: 15px;
+}
+.content h2 {
+    margin-bottom: 15px;
+}

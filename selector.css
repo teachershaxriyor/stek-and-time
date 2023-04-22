@@ -1,0 +1,34 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ .container{
+    cursor: pointer;
+    align-items: center;
+    background-color: aquamarine;
+    text-transform: uppercase;
+ }
+ /* p {
+    color: red;
+} */
+/* in teg nomi orqali style berish hisoblanadi */
+/* 
+#kurs-nomi {
+    color: black;
+} */
+/* in class orqali style berish */
+/* # id orqali style berish */
+/* 
+ [disabled] {
+    color: gold;
+ } */
+ /* attribute yordamida style berish */
+
+/* 
+ * {
+    color: blue;
+ } */
+ /* hameshba style mitiyat */
+
